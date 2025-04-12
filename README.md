@@ -32,7 +32,7 @@ providing insights into content distribution, genres, ratings, and more.
 ## 🚀 How to Use
 
 1. Clone or download the repository.
-2. Open the Power BI `.pbix` file (if available).
+2. Open the Power BI `.pbix` file.
 3. Refresh or replace the dataset with your own if needed.
 4. Interact with the filters and visuals to explore the data.
 
